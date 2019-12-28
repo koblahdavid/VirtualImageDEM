@@ -1,0 +1,5 @@
+INSTRUCTIONS FOR PROJECT 1
+1. The program will prompt the user for the name of the DEM file.  The file extension(.egm) is not required. The file has to be in the project's file directory.
+2. The program will then ask for the output file. The extension (.pgm) is not required
+3. The azimuth and elevation values will also be sought for by the program. They must be entered in degrees.
+4. The program will retrieve and display the header info of the DEM file, operate on the pixel values, and write the info to the PGM file.
